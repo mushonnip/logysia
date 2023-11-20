@@ -4,7 +4,7 @@
   "type": "module",
   "devDependencies": {
     "bun-types": "latest",
-    "typescript": "^5.0.0",
+    "typescript": "^5.2.2",
     "elysia": "^0.5.25"
   },
   "peerDependencies": {
